@@ -9,6 +9,7 @@ alias ~="cd ~"
 alias p="cd ~/Projects"
 alias d="cd ~/Downloads"
 alias m="cd ~/Movies"
+alias tc="~/Myjsp/tomcat/bin/catalina.sh"
 
 # listing files
 alias t="tree -I 'node_modules|.git|test|.DS_Store' --noreport -C -a --dirsfirst"

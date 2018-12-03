@@ -1,9 +1,9 @@
 [user]
-  name = Mohit Singh
-  email = mohitsinghs.dev@gmail.com
+  name = Abhishek Kumar Singh
+  email = Abhisheksingh9135@gmail.com
 
 [github]
-  user = mohitsinghs
+  user = abhisheksinghs
 
 [core]
   excludesfile = ~/.gitignore
@@ -20,7 +20,7 @@
   ds = diff --staged
   s = status -s
 
-[url "git@github.com:mohitsinghs/"]
+[url "git@github.com:abhisheksinghs/"]
   insteadOf = "gh:"
 [url "git://github.com/"]
   insteadOf = "github:"
