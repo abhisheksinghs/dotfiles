@@ -23,7 +23,7 @@
   insteadOf = "gh:"
 [url "git://github.com/"]
   insteadOf = "github:"
-[url "git@gitlab.com:mohitsinghs/"]
+[url "git@gitlab.com:abhisheksinghs/"]
   insteadOf = "gl:"
 [url "git://gitlab.com/"]
   insteadOf = "gitlab:"
