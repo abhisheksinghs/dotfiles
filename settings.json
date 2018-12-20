@@ -4,7 +4,7 @@
   "editor.fontSize": 14,
   "editor.lineHeight": 28,
   "vscode_custom_css.statusbar": false,
-  "vscode_custom_css.imports": ["file:///Users/mohit/.vscode.css"],
+  "vscode_custom_css.imports": ["file:///Users/abhishek/.vscode.css"],
   "editor.minimap.enabled": false,
   "breadcrumbs.enabled": false,
   "keyboard.touchbar.enabled": false,
